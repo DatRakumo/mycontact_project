@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e550d4c0-1e49-4c64-8eb3-3f42124fc2cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZYmXCRCiXzTxAd7UOvIuQ1JlLS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/google_appengine" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.appengine.AppEngineModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Python.AppEngineServer" factoryName="App Engine server">
+      <module name="contact" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../untitled/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="127.0.0.1" />
+      <option name="browserUrl" value="" />
+      <option name="additionalOptions" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="contact" type="Python.AppEngineServer" factoryName="App Engine server">
+      <module name="contact" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../untitled/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="127.0.0.1" />
+      <option name="port" value="8080" />
+      <option name="browserUrl" value="" />
+      <option name="additionalOptions" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e550d4c0-1e49-4c64-8eb3-3f42124fc2cd" name="Default Changelist" comment="" />
+      <created>1585024439036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585024439036</updated>
+      <workItem from="1585024448049" duration="7162000" />
+      <workItem from="1585036654707" duration="5272000" />
+      <workItem from="1585043205372" duration="4954000" />
+      <workItem from="1585105734115" duration="95000" />
+      <workItem from="1585107851293" duration="195000" />
+      <workItem from="1585108063454" duration="646000" />
+      <workItem from="1585108726990" duration="138000" />
+      <workItem from="1585109317792" duration="886000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585110734427">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1585110734427" />
+    <state x="356" y="159" width="592" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585035420112">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="356" y="159" width="592" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1585035420112" />
+    <state x="390" y="27" width="642" height="735" key="#contact" timestamp="1585109445455">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="390" y="27" width="642" height="735" key="#contact/67.27.1299.741@67.27.1299.741" timestamp="1585109445455" />
+    <state x="499" y="135" width="424" height="513" key="FileChooserDialogImpl" timestamp="1585110232252">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="135" width="424" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585110232252" />
+    <state width="1233" height="72" key="GridCell.Tab.0.bottom" timestamp="1585110354957">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="72" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585110354957" />
+    <state width="1233" height="72" key="GridCell.Tab.0.center" timestamp="1585110354957">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="72" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585110354957" />
+    <state width="1233" height="72" key="GridCell.Tab.0.left" timestamp="1585110354956">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="72" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585110354956" />
+    <state width="1233" height="72" key="GridCell.Tab.0.right" timestamp="1585110354957">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="72" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585110354957" />
+    <state x="205" y="27" key="SettingsEditor" timestamp="1585109536951">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="27" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1585109536951" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1585110685515">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1585110685515" />
+    <state x="67" y="27" width="704" height="741" key="find.popup" timestamp="1585038193624">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="704" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1585038193624" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/contact$contact.coverage" NAME="contact Coverage Results" MODIFIED="1585110816041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
