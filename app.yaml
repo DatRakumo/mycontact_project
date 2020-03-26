@@ -29,5 +29,4 @@ libraries:
   version: "2.5.2"
 - name: django
   version: "1.4"
-- name: grpcio
-  version: 1.0.0
+
