@@ -290,3 +290,9 @@ def my_function():
 my_function()
 
 print( create_entity_using_attributes())
+
+
+print(create_expando_model_entity_with_defined_properties())
+
+p1 = Account()
+print(p1.create_entity_using_populate())
