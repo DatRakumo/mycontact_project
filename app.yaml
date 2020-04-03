@@ -6,7 +6,6 @@ threadsafe: yes
 
 env_variables:
   DJANGO_SETTINGS_MODULE: 'settings'
-  REDIS_CACHE_URL: redis://10.0.0.3:6379
 
 handlers:
 - url: /favicon\.ico
@@ -29,3 +28,5 @@ libraries:
   version: "2.5.2"
 - name: django
   version: "1.4"
+
+
