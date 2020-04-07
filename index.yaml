@@ -1,1 +1,0 @@
-gcloud datastore indexes create ~/.config/gcloud/emulators/datastore/WEB-INF/index.yaml

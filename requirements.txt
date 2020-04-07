@@ -1,8 +1,0 @@
-google-cloud-ndb
-google-cloud-datastore==1.11.0
-gunicorn==19.9.0
-grpcio
-google-api-python-client
-google-cloud-storage==1.27.0
-googleapis-common-protos==1.51.0
-
