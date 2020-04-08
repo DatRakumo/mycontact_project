@@ -20,17 +20,20 @@ class Greeting(ndb.Model):
 		g.put()
 		return g
 
+
 	@classmethod
 	def query_book(cls):
 		obj = cls.query().fetch()
-		return obj[1]    # id = 0,1,2,3,4,5,....
+		return obj[0]   # id = 0,1,2,3,4,5,....
+
+	def get1_book(cls):
+		obj = cls.query(cls.author == "Nguyen Van Dat").fetch()
+		return obj[1]   # id = 0,1,2,3,4,5,....
 
 	@classmethod
-	def update_entity(cls):
-		obj = cls.query().fetch()
-		obj[1].author = "aaaaaaaaaaa"
-		return obj[1]
-
+	def get_book(cls):
+		query = Greeting.query(Greeting.allocate_ids == 4785074604081152).fetch()
+		return query
 
 
 

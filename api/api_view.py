@@ -29,6 +29,7 @@ class Greetings(JsonResponse.JSONResponseMixin, FormView):
 
         return self.render_to_response(context)
 
+
     def get(self, request, *args, **kwargs):
         greet = Greeting.query_book()
         context = {
@@ -36,15 +37,23 @@ class Greetings(JsonResponse.JSONResponseMixin, FormView):
             'author': greet.author,
             'content': greet.content,
             'greeting_name': greet.greeting_name,
-            'avatar': greet.avatar,
-            'created_date': greet.created_date.isoformat(),
-            'updated_date': greet.updated_date.isoformat()
-
         }
         return self.render_to_response(context)
 
-    def update(self, request, *args, **kwargs):
-        greet = Greeting.update_entity()
+""" 
+    def get(self, request, *args, **kwargs):
+        greet = Greeting.get_book()
+        context = {
+            'id': greet.key.id(),
+            'author': greet.author,
+            'content': greet.content,
+            'greeting_name': greet.greeting_name,
+        }
+        return self.render_to_response(context)
+
+
+    def get(self, request, *args, **kwargs):
+        greet = Greeting.get_book(1)
         context = {
             'id': greet.key.id(),
             'author': greet.author,
@@ -56,3 +65,7 @@ class Greetings(JsonResponse.JSONResponseMixin, FormView):
 
         }
         return self.render_to_response(context)
+    """
+
+
+
